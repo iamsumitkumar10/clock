@@ -3,6 +3,7 @@
 }
 
 #clock {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 175px;
     width: 950px;
     margin: 200px;
