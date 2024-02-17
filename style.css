@@ -5,6 +5,7 @@
   width: 950px;
   margin: 150px;
   text-align: center;
+  justify-content: center;
 }
 
 .dark {
