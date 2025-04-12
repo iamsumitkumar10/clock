@@ -46,7 +46,7 @@ function showTime() {
     let day = days[time.getDay()];
     let date = time.getDate();
     let month = months[time.getMonth()];
-    let year = time.getFullYear();
+    // let year = time.getFullYear();
 
     let fullDate = `${day}, ${month} ${date}, ${year}`;
     document.getElementById("date").innerHTML = fullDate;
