@@ -96,3 +96,4 @@ function showTime() {
 
 // Initialize time on load
 showTime();
+
